@@ -31,6 +31,5 @@ Following are a few results of the developed ***Video Captioning*** approach on 
 | ![alt text](https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/ezgif-4-989de822710c.gif) | a man is mixing ingredients in a bowl |
 | <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/Je3V7U5Ctj4_569_576.gif" width="320"> | a man is spreading a tortilla |
 | <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/qeKX-N1nKiM_0_5.gif" width="320"> | a woman is seasoning some food |
-| ![alt text](https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/TZ860P4iTaM_15_28.gif) | a cat is playing the piano |
 
 
